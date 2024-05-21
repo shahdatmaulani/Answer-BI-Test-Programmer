@@ -1,0 +1,7 @@
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\bin\Debug\Pattern Number of N.exe.config
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\bin\Debug\Pattern Number of N.exe
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\bin\Debug\Pattern Number of N.pdb
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\obj\Debug\Pattern Number of N.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\obj\Debug\Pattern Number of N.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\obj\Debug\Pattern Number of N.exe
+C:\Users\ACER\Downloads\Project .NET\Pattern Number of N\Pattern Number of N\obj\Debug\Pattern Number of N.pdb

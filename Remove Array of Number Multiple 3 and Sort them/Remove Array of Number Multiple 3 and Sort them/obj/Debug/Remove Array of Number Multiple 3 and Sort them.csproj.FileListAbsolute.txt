@@ -1,0 +1,7 @@
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\obj\Debug\Remove Array of Number Multiple 3 and Sort them.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\obj\Debug\Remove Array of Number Multiple 3 and Sort them.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\bin\Debug\Remove Array of Number Multiple 3 and Sort them.exe.config
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\bin\Debug\Remove Array of Number Multiple 3 and Sort them.exe
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\bin\Debug\Remove Array of Number Multiple 3 and Sort them.pdb
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\obj\Debug\Remove Array of Number Multiple 3 and Sort them.exe
+C:\Users\ACER\Downloads\Project .NET\Remove Array of Number Multiple 3 and Sort them\Remove Array of Number Multiple 3 and Sort them\obj\Debug\Remove Array of Number Multiple 3 and Sort them.pdb

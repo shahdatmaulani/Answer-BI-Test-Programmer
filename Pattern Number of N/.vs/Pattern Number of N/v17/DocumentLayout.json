@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\Project .NET\\Pattern Number of N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950C53E1-4728-4562-AC09-2478AFD6BF93}|Pattern Number of N\\Pattern Number of N.csproj|c:\\users\\acer\\downloads\\project .net\\pattern number of n\\pattern number of n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950C53E1-4728-4562-AC09-2478AFD6BF93}|Pattern Number of N\\Pattern Number of N.csproj|solutionrelative:pattern number of n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project .NET\\Pattern Number of N\\Pattern Number of N\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern Number of N\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project .NET\\Pattern Number of N\\Pattern Number of N\\Program.cs",
+              "RelativeToolTip": "Pattern Number of N\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:01:09.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
